@@ -22,7 +22,6 @@ A Distributed System for Sharing files similar to Bittorent with some added func
 
 ## Contributors:
 
-1. Shrey Pandey (@Shreypandey)
-2. Suraj Goel (@suraj-goel)
-3. Anuj Modi (@descifrado)
-
+* [Suraj Goel](http://www.github.com/suraj-goel)
+* [Anuj Modi](http://www.github.com/descifrado)
+* [Shrey Pandey](http://www.github.com/Shreypandey)
