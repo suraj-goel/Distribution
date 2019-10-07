@@ -20,5 +20,9 @@ A Distributed System for Sharing files similar to Bittorent with some added func
 6. If for a search query there are multiple results, rank the results based on the availability of that file on different nodes.
 7. A user who has still not downloaded the whole file (but has some part of it ) can have other users downloading that part of the file from his node.
 
+## Contributors:
 
+1. Shrey Pandey (@Shreypandey)
+2. Suraj Goel (@suraj-goel)
+3. Anuj Modi (@descifrado)
 
