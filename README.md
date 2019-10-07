@@ -1,5 +1,6 @@
 # Distribution
-A Distributed System for Sharing files similar to Bittorent with some added functionalities.
+A Java application for sharing files based on Peer-to-peer protocol similar to Bittorent with some added functionalities.
+
 ## Basic Features:
 1. A user account to which each user can log into and create his profile and can share content with others.
 2. A dashboard for the user showing the files he has downloaded or shared, the number of people who have downloaded the files he/she has shared.
@@ -20,5 +21,8 @@ A Distributed System for Sharing files similar to Bittorent with some added func
 6. If for a search query there are multiple results, rank the results based on the availability of that file on different nodes.
 7. A user who has still not downloaded the whole file (but has some part of it ) can have other users downloading that part of the file from his node.
 
+## Contributors:
 
-
+* [Suraj Goel](http://www.github.com/suraj-goel)
+* [Anuj Modi](http://www.github.com/descifrado)
+* [Shrey Pandey](http://www.github.com/Shreypandey)
