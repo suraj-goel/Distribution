@@ -2,6 +2,7 @@
 A Java application for sharing files based on Peer-to-peer protocol similar to Bittorent with some added functionalities.
 
 ## Basic Features:
+
 1. A user account to which each user can log into and create his profile and can share content with others.
 2. A dashboard for the user showing the files he has downloaded or shared, the number of people who have downloaded the files he/she has shared.
 3. While sharing a file the user should be able to define what kind of fileit is. 
@@ -13,6 +14,7 @@ A Java application for sharing files based on Peer-to-peer protocol similar to B
 9. Create a user interface where users can search a file using the file title/name.
 
 ## Advanced Features:
+
 1. File shared by the user can have multiple tags like a movie shared by a user can have tags like action, fantasy etc., a book shared by a user can have tags like ML, coursebook etc.
 2. Create a search utility where the user can view files and search files using various other parameters like file type Document, Video, Song,Movie etc.), tags etc.
 3. For a file (or a part of a file) which is stored on multiple nodes, downloads for that file should occur parallelly from all those nodes which are online and which have a part of that file.
